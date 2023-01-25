@@ -2,4 +2,6 @@
 Graph Theory Project
 </h1>
 
-Graph Theory Project - Ethan Conneely (G00393941)
+<p align="center">
+by <a href="https://github.com/IrishBruse?tab=repositories">Ethan Conneely (G00393941)<a>
+</p>
