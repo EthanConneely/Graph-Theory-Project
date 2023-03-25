@@ -1,0 +1,12 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "export to html",
+            "type": "shell",
+            "command": "python -m jupyter nbconvert --to html ./graph_isomorphism.ipynb --output ./docs/index.html"
+        }
+    ]
+}
